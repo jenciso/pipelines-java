@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/juanencisocondena-labs/docker/_apis/build/status/jenciso.pipelines-java?branchName=master)](https://dev.azure.com/juanencisocondena-labs/docker/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
